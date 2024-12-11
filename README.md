@@ -1,6 +1,6 @@
-# The lips of wisdom are closed, except to the ears of Understanding
+# Rust is the best , Nothing is impossible wtih Rust
 
-** this is a fork of rust-websocket-server
+** Ofc , I have scniping bot which is made with typescript but rust is perfect
 
 [RTFM](https://solana.com/es/docs/rpc) <3
 
